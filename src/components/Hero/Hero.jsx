@@ -50,7 +50,7 @@ const Hero = () => {
           <div className={css.personwhy}>
             <motion.img
               variants={slideIn("up", "tween", 0.5, 1.3)}
-              src="./rbe.jpeg"
+              src="./rety.jpeg"
               // src="/bety.jpeg"
               alt=""
               className={css.personimgdiv}
