@@ -7,7 +7,8 @@ import { IoCall } from "react-icons/io5";
 import { SiGmail } from "react-icons/si";
 import "./Hero.css";
 const Hero = () => {
-  const phoneNumber = "+1(781)351‑8993";
+  const phoneNumber = +14698985517;
+  // const phoneNumber = "+1(781)351‑8993";
   const WhatsappClick = () => {
     const url = `https://wa.me/${phoneNumber}`;
     window.open(url, "_blank");
@@ -36,7 +37,8 @@ const Hero = () => {
             // style={{ width: "55%" }}
             variants={fadeIn("left", "tween", 0.4, 1)}
           >
-            She is a Financial Consultant and Wealth Creator living in USA,
+            Roberta Marie Julien is a Financial Consultant and Wealth Creator
+            living in USA,
             <br />
             who has over 15 years of professional experience, and has merits of
             awards as well as Professional Certificate/ license in Europe ,
