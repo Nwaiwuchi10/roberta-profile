@@ -28,7 +28,7 @@ const Footer = () => {
         <div className={css.right}>
           <div className={css.info}>
             <span className="secondaryText">Information</span>
-            <p>+1(781)351‑8993</p>
+            <p>+14698985517</p>
             <p>robertamariejulien@gmail.com</p>
           </div>
           <ul className={css.menu}>

@@ -20,7 +20,7 @@ export default function ContactMe() {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    const whatsappNumber = "+14455440351"; // Replace with your WhatsApp number (without the + sign)
+    const whatsappNumber = "+14698985517"; // Replace with your WhatsApp number (without the + sign)
     const textMessage = `Hello, I am ${formData.firstName} ${formData.lastName}. My email is ${formData.email}, and my phone number is ${formData.phoneNumber}. I would like to talk about ${formData.topic}. Here's my message: ${formData.message}`;
 
     // Construct WhatsApp URL

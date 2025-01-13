@@ -147,6 +147,9 @@ input[type="checkbox"] {
   .contact--section {
     display: flex;
     padding: 0px;
+    flex-wrap: wrap;
+    justify-items: center;
+    justify-self: center;
     /* flex-wrap: wrap; */
     flex-direction: column;
     justify-content: center;

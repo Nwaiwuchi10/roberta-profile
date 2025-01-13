@@ -61,7 +61,7 @@ const Hero = () => {
         </motion.div>
         <br />
 
-        <div className={css.number}>+1(781)351‑8993</div>
+        <div className={css.number}>+14698985517</div>
 
         {/* <br /> */}
 
