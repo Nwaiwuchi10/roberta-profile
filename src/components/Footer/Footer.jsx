@@ -29,7 +29,7 @@ const Footer = () => {
           <div className={css.info}>
             <span className="secondaryText">Information</span>
             <p>+14698985517</p>
-            <p>robertamariejulien@gmail.com</p>
+            <p>tinanicoleblackwood@gmail.com</p>
           </div>
           <ul className={css.menu}>
             <li>Services</li>

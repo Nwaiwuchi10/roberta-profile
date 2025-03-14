@@ -39,7 +39,7 @@ export const workExp = [
     role: "Crypto Investment Banker & Consultant",
     // role: "Crypto Investment",
     detail:
-      "Roberta Marie Julien is a financial consultant who understands that there’s more to financial planning than helping you decide how to invest. Because those decisions aren’t just about money, they’re about what that money can do–for you, your family and your community.",
+      "Tina Nicole Blackwood is a financial consultant who understands that there’s more to financial planning than helping you decide how to invest. Because those decisions aren’t just about money, they’re about what that money can do–for you, your family and your community.",
   },
   {
     // place: "New Man Services",
@@ -53,7 +53,7 @@ export const workExp = [
     // tenure: "Aug 2014 - Sep 2016",
     // role: "Sr. Product Designer",
     detail:
-      "Roberta Marie Julien is employed by DIGITAL ASSET CREST, INC., which provides investment advisory service for clients.",
+      "Tina Nicole Blackwood is employed by DIGITAL ASSET CREST, INC., which provides investment advisory service for clients.",
   },
   {
     // place: "Global Solution",

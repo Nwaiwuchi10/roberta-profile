@@ -29,7 +29,7 @@ const Hero = () => {
           >
             Hey There,
             <br />
-            I'm Roberta Marie Julien.
+            I'm Tina Nicole Blackwood.
           </motion.span>
           <motion.span
             // className={css.sec}
@@ -37,7 +37,7 @@ const Hero = () => {
             // style={{ width: "55%" }}
             variants={fadeIn("left", "tween", 0.4, 1)}
           >
-            Roberta Marie Julien is a Financial Consultant and Wealth Creator
+            Tina Nicole Blackwood is a Financial Consultant and Wealth Creator
             living in USA,
             <br />
             who has over 15 years of professional experience, and has merits of
@@ -70,7 +70,7 @@ const Hero = () => {
             {" "}
             <SiGmail style={{ color: "black" }} />
           </span>{" "} */}
-          robertamariejulien@gmail.com
+          tinanicoleblackwood@gmail.com
         </a>
         <div className={css.lowerElements}>
           <motion.div
