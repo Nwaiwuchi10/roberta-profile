@@ -65,7 +65,7 @@ const Hero = () => {
 
         {/* <br /> */}
 
-        <a className={css.email} href="mailto:robertamariejulien@gmail.com">
+        <a className={css.email} href="mailto:tinanicoleblackwood@gmail.com">
           {/* <span>
             {" "}
             <SiGmail style={{ color: "black" }} />
