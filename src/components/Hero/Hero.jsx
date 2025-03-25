@@ -1,5 +1,6 @@
 import React from "react";
 import { fadeIn, slideIn, staggerContainer } from "../../utils/motion";
+import heroPP from "../../assets/heroPP.jpeg";
 import css from "./Hero.module.scss";
 import { motion } from "framer-motion";
 import whatsapp from "../../assets/whatsapp.png";
@@ -52,7 +53,7 @@ const Hero = () => {
           <div className={css.personwhy}>
             <motion.img
               variants={slideIn("up", "tween", 0.5, 1.3)}
-              src="./rety.jpeg"
+              src={heroPP}
               // src="/bety.jpeg"
               alt=""
               className={css.personimgdiv}
